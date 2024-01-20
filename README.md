@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Brandon!</h1>
+<p align="center">
+  I'm currently persuing a Computer Science major with a focus on Game Development alongside a Mathematics minor at Edinboro University. <br>
+  I develop games mainly in Unreal Engine but I've been exploring creating my own specialized 2D game engine. <br>
+  Check out my latest game project <a href="https://github.com/Bwright257/Eternity">Eternity</a> to see my progress!
+</p>
 
-<!--
-**Bwright257/Bwright257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Programming Languages</h2>
+<p align="center">
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bwright257&show_icons=true&theme=dracula"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bwright257&layout=compact&theme=dracula"/>
+</p>
