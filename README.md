@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Brandon!</h1>
 <p align="center">
-  I'm currently persuing a Computer Science major alongside a Mathematics minor at Edinboro University. <br>
+  I'm currently persuing a Computer Science major alongside a Mathematics minor at PennWest University. <br>
   I develop games mainly in Unreal Engine but I've been exploring creating my own specialized 2D game engine. <br>
   Check out my latest game project <a href="https://github.com/Bwright257/Eternity">Eternity</a> to see my progress!
 </p>
