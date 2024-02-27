@@ -2,7 +2,6 @@
 <p align="center">
   I'm currently persuing a Computer Science major alongside a Mathematics minor at PennWest University. <br>
   I develop games mainly in Unreal Engine but I've been exploring creating my own specialized 2D game engine. <br>
-  Check out my latest game project <a href="https://github.com/Bwright257/Eternity">Eternity</a> to see my progress!
 </p>
 
 <h2 align="center">Programming Languages</h2>
@@ -26,7 +25,7 @@
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 </p>
-
+<!--
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bwright257&show_icons=true&theme=dracula"/>
@@ -34,3 +33,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bwright257&layout=compact&theme=dracula"/>
 </p>
+-->
