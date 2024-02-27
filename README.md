@@ -7,7 +7,9 @@
 <h2 align="center">Programming Languages</h2>
 <p align="center">
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
