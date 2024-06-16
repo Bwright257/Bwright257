@@ -11,6 +11,7 @@
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img height="50em" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
